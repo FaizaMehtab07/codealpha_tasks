@@ -1,0 +1,29 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening", "howdy", "how are you", "how are you doing"],
+      "responses": ["Hello!", "Hi there!", "Hey!", "Hi! How can I help you?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "goodbye", "see you later", "farewell", "catch you later"],
+      "responses": ["Goodbye!", "See you later!", "Have a nice day!", "Bye! Come back soon."]
+    },
+    {
+      "tag": "weather",
+      "patterns": ["what's the weather", "weather today", "is it raining", "weather forecast", "how's the weather"],
+      "responses": ["I don't have real-time weather info, but I hope it's nice where you are!", "Weather is always changing, better check a weather app!"]
+    },
+    {
+      "tag": "time",
+      "patterns": ["what time is it", "current time", "tell me the time", "time now", "can you tell time"],
+      "responses": ["I don't have a clock, but you can check your device for the current time!", "Sorry, I can't tell the time right now."]
+    },
+    {
+      "tag": "general",
+      "patterns": ["who are you", "what can you do", "tell me about yourself", "what is this", "help", "what do you know", "what kind of help can you offer"],
+      "responses": ["I'm a simple chatbot created to chat with you!", "I can answer simple questions and have a friendly chat."]
+    }
+  ]
+}

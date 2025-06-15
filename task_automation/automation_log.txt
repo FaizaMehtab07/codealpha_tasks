@@ -1,0 +1,9 @@
+2025-06-14 20:24:18,725 - INFO - Welcome to the Automation Script!
+2025-06-14 20:24:18,726 - INFO - Select a task to automate:
+2025-06-14 20:24:18,726 - INFO - 1. File Organization
+2025-06-14 20:24:18,727 - INFO - 2. Data Cleaning (CSV)
+2025-06-14 20:24:18,727 - INFO - 3. Bulk File Renaming
+2025-06-14 20:24:18,727 - INFO - 4. System Cleanup (temp folders)
+2025-06-14 20:24:18,728 - INFO - 5. Auto Email Sender (SMTP)
+2025-06-14 20:24:18,728 - INFO - 6. Image Resizing
+2025-06-14 20:24:18,728 - INFO - 7. PDF Merging or Splitting
